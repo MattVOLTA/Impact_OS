@@ -32,14 +32,14 @@ This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDU
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/impactos.git
-   cd impactos
+   git clone https://github.com/YOUR-USERNAME/Impact_OS.git
+   cd Impact_OS
    ```
 
 3. **Add the upstream remote**
 
    ```bash
-   git remote add upstream https://github.com/original-org/impactos.git
+   git remote add upstream https://github.com/MattVOLTA/Impact_OS.git
    ```
 
 4. **Install dependencies**
@@ -274,7 +274,7 @@ For feature requests, please include:
 
 ## Questions?
 
-- Open a [GitHub Discussion](https://github.com/your-org/impactos/discussions) for general questions
+- Open a [GitHub Discussion](https://github.com/MattVOLTA/Impact_OS/discussions) for general questions
 - Check existing issues before creating new ones
 - Join our community channels (if applicable)
 

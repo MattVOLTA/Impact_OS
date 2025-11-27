@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security Vulnerability
-    url: https://github.com/your-org/impactos/security/policy
+    url: https://github.com/MattVOLTA/Impact_OS/security/policy
     about: Please report security vulnerabilities through our security policy, not public issues.
   - name: Questions & Discussions
-    url: https://github.com/your-org/impactos/discussions
+    url: https://github.com/MattVOLTA/Impact_OS/discussions
     about: Use GitHub Discussions for questions, ideas, and general conversation.
   - name: Documentation
-    url: https://github.com/your-org/impactos/tree/main/docs
+    url: https://github.com/MattVOLTA/Impact_OS/tree/main/docs
     about: Check our documentation before opening an issue.

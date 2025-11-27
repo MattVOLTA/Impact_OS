@@ -33,8 +33,8 @@ impactOS helps startup support organizations streamline their operations with:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/impactos.git
-   cd impactos
+   git clone https://github.com/MattVOLTA/Impact_OS.git
+   cd Impact_OS
    ```
 
 2. **Install dependencies**
