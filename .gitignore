@@ -1,0 +1,65 @@
+# Environment variables (contains sensitive keys)
+.env
+.env.local
+.env*.local
+.env.production
+.env.staging
+
+# MCP configuration (contains API tokens)
+.mcp.json
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Testing
+coverage/
+.nyc_output/
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Git worktrees
+.worktrees/
+
+# Supabase local
+supabase/.branches/
+supabase/.temp/
+
+# Vercel
+.vercel
+
+# Turbo
+.turbo
+
+# Debug
+*.pem
+
+# Local development files
+*.local
+notes.md
+TODO.md
+scratch/

@@ -1,0 +1,11 @@
+[build]
+  base = "app"
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Next.js requires these plugins for proper deployment
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
